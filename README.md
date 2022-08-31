@@ -1,3 +1,5 @@
+# 🚇
+
 Add the following cron rule using `crontab -e`:
 
 ```
